@@ -1,0 +1,61 @@
+---
+active_lock_reason: 
+assignee: 
+assignees: []
+author_association: OWNER
+closed_at: 
+comments: 0
+comments_url: https://api.github.com/repos/ma96o/gialog/issues/12/comments
+created_at: '2022-08-11T14:12:19Z'
+events_url: https://api.github.com/repos/ma96o/gialog/issues/12/events
+html_url: https://github.com/ma96o/gialog/issues/12
+id: 1336021482
+labels: []
+labels_url: https://api.github.com/repos/ma96o/gialog/issues/12/labels{/name}
+locked: false
+milestone: 
+node_id: I_kwDOHueoCs5PohHq
+number: 12
+performed_via_github_app: 
+reactions:
+  "+1": 0
+  "-1": 0
+  confused: 0
+  eyes: 0
+  heart: 0
+  hooray: 0
+  laugh: 0
+  rocket: 0
+  total_count: 0
+  url: https://api.github.com/repos/ma96o/gialog/issues/12/reactions
+repository_url: https://api.github.com/repos/ma96o/gialog
+state: open
+state_reason: 
+timeline_url: https://api.github.com/repos/ma96o/gialog/issues/12/timeline
+title: '0811 _ エフェクチュエーション'
+updated_at: '2022-08-11T14:55:07Z'
+url: https://api.github.com/repos/ma96o/gialog/issues/12
+user:
+  avatar_url: https://avatars.githubusercontent.com/u/22464192?v=4
+  events_url: https://api.github.com/users/ma96o/events{/privacy}
+  followers_url: https://api.github.com/users/ma96o/followers
+  following_url: https://api.github.com/users/ma96o/following{/other_user}
+  gists_url: https://api.github.com/users/ma96o/gists{/gist_id}
+  gravatar_id: ''
+  html_url: https://github.com/ma96o
+  id: 22464192
+  login: ma96o
+  node_id: MDQ6VXNlcjIyNDY0MTky
+  organizations_url: https://api.github.com/users/ma96o/orgs
+  received_events_url: https://api.github.com/users/ma96o/received_events
+  repos_url: https://api.github.com/users/ma96o/repos
+  site_admin: false
+  starred_url: https://api.github.com/users/ma96o/starred{/owner}{/repo}
+  subscriptions_url: https://api.github.com/users/ma96o/subscriptions
+  type: User
+  url: https://api.github.com/users/ma96o
+
+---
+最近，事業計画に向けてパートナーと2人で，リサーチして，コード書いてということをしている．リサーチする，書く&話すで共有，わからないこと/ 解決されていないことがわかる，リサーチする，，みたいなループを2人で短期間で繰り返していると，割と学習効率が良い．なので，こういうの学習プロセスとして理論化されていないかな，と調べていた．
+
+しかし，ちょうどいいのが見当たらない．教育者と学習者がいるような教育実践における理論とか組織の学習理論などは見つかるが，うまくはまらない．調べていた中で目に止まったのが「エフェクチュエーション」という経営学の理論．上述の学習プロセスとは全く関連がない．が，気になってしまったので，整理した．

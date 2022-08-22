@@ -1,0 +1,69 @@
+---
+active_lock_reason: 
+assignee: 
+assignees: []
+author_association: OWNER
+closed_at: 
+comments: 0
+comments_url: https://api.github.com/repos/ma96o/gialog/issues/6/comments
+created_at: '2022-08-03T15:10:53Z'
+events_url: https://api.github.com/repos/ma96o/gialog/issues/6/events
+html_url: https://github.com/ma96o/gialog/issues/6
+id: 1327377404
+labels: []
+labels_url: https://api.github.com/repos/ma96o/gialog/issues/6/labels{/name}
+locked: false
+milestone: 
+node_id: I_kwDOHueoCs5PHiv8
+number: 6
+performed_via_github_app: 
+reactions:
+  "+1": 0
+  "-1": 0
+  confused: 0
+  eyes: 0
+  heart: 0
+  hooray: 0
+  laugh: 0
+  rocket: 0
+  total_count: 0
+  url: https://api.github.com/repos/ma96o/gialog/issues/6/reactions
+repository_url: https://api.github.com/repos/ma96o/gialog
+state: open
+state_reason: 
+timeline_url: https://api.github.com/repos/ma96o/gialog/issues/6/timeline
+title: 言葉の多義性
+updated_at: '2022-08-03T15:10:53Z'
+url: https://api.github.com/repos/ma96o/gialog/issues/6
+user:
+  avatar_url: https://avatars.githubusercontent.com/u/22464192?v=4
+  events_url: https://api.github.com/users/ma96o/events{/privacy}
+  followers_url: https://api.github.com/users/ma96o/followers
+  following_url: https://api.github.com/users/ma96o/following{/other_user}
+  gists_url: https://api.github.com/users/ma96o/gists{/gist_id}
+  gravatar_id: ''
+  html_url: https://github.com/ma96o
+  id: 22464192
+  login: ma96o
+  node_id: MDQ6VXNlcjIyNDY0MTky
+  organizations_url: https://api.github.com/users/ma96o/orgs
+  received_events_url: https://api.github.com/users/ma96o/received_events
+  repos_url: https://api.github.com/users/ma96o/repos
+  site_admin: false
+  starred_url: https://api.github.com/users/ma96o/starred{/owner}{/repo}
+  subscriptions_url: https://api.github.com/users/ma96o/subscriptions
+  type: User
+  url: https://api.github.com/users/ma96o
+
+---
+インターネットにより醸成された文化を過ごすことで，他人の言葉を読み聞きする機会は圧倒的に増えている．
+そんな中で，ときどき思うこと．
+
+他者が発した言葉を，自己の認識する意味のみで理解するのと，相手に成り代わったつもりで理解してみるのとでは，全く変わった意味になる．
+後者の態度で解釈しようとすると，その発言の意図やある程度くるめられた細部の概念が分かることがある．
+
+文脈を踏まえつつ，相手の経験やバックグラウンドを根拠に，相手がどのような認識で発しているかという観点から言葉を解釈することを，日常的に行えている人は少ないと思う．
+いわゆる環世界を意識すること．「前提」をずらすと「言葉」の意味は揺らぐ．
+
+詩的な言葉とは，そういった言葉の多義性を直感させる力がある．
+それは発話者の像もいらないし，言葉に対する無意識な前提がずれて，いつも目にしている言葉が急に広がりを持つ驚きが在る．

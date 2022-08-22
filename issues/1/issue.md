@@ -1,0 +1,66 @@
+---
+active_lock_reason: 
+assignee: 
+assignees: []
+author_association: OWNER
+closed_at: 
+comments: 0
+comments_url: https://api.github.com/repos/ma96o/gialog/issues/1/comments
+created_at: '2022-07-27T15:44:17Z'
+events_url: https://api.github.com/repos/ma96o/gialog/issues/1/events
+html_url: https://github.com/ma96o/gialog/issues/1
+id: 1319756683
+labels: []
+labels_url: https://api.github.com/repos/ma96o/gialog/issues/1/labels{/name}
+locked: false
+milestone: 
+node_id: I_kwDOHueoCs5OqeOL
+number: 1
+performed_via_github_app: 
+reactions:
+  "+1": 0
+  "-1": 0
+  confused: 0
+  eyes: 0
+  heart: 0
+  hooray: 0
+  laugh: 0
+  rocket: 0
+  total_count: 0
+  url: https://api.github.com/repos/ma96o/gialog/issues/1/reactions
+repository_url: https://api.github.com/repos/ma96o/gialog
+state: open
+state_reason: 
+timeline_url: https://api.github.com/repos/ma96o/gialog/issues/1/timeline
+title: Github Pagesでブログを始める
+updated_at: '2022-07-27T15:44:17Z'
+url: https://api.github.com/repos/ma96o/gialog/issues/1
+user:
+  avatar_url: https://avatars.githubusercontent.com/u/22464192?v=4
+  events_url: https://api.github.com/users/ma96o/events{/privacy}
+  followers_url: https://api.github.com/users/ma96o/followers
+  following_url: https://api.github.com/users/ma96o/following{/other_user}
+  gists_url: https://api.github.com/users/ma96o/gists{/gist_id}
+  gravatar_id: ''
+  html_url: https://github.com/ma96o
+  id: 22464192
+  login: ma96o
+  node_id: MDQ6VXNlcjIyNDY0MTky
+  organizations_url: https://api.github.com/users/ma96o/orgs
+  received_events_url: https://api.github.com/users/ma96o/received_events
+  repos_url: https://api.github.com/users/ma96o/repos
+  site_admin: false
+  starred_url: https://api.github.com/users/ma96o/starred{/owner}{/repo}
+  subscriptions_url: https://api.github.com/users/ma96o/subscriptions
+  type: User
+  url: https://api.github.com/users/ma96o
+
+---
+ただそれだけ．
+内容は特に決めていない．
+日々のメモみたいなものか，仕事関連で書きたいものなのか，技術関連のことか，そのあたり．
+
+ブログを作るなら個人のページで運用したかったので，とりあえず Github Pages で始めれば，個人サイトをホスティングする際も移管がしやすいかと考えた．
+Github で運用すれば，慣れているし気軽に書けそう．
+
+そんな中，[gialogで簡単に日記を作るやつをやった](https://yuheinakasaka.github.io/gialog-diary/articles/1) という記事を見て，すぐに始められるしいいなということで早速書いてみている．
